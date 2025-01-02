@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+david:
+  product_id: tshirt
+  email: david@example.org
+
+chris:
+  product_id: tshirt
+  email: chris@example.org
